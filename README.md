@@ -79,6 +79,8 @@ I developed an interactive **Power BI analytics dashboard** covering multiple le
 | **Data Visualization** | Interactive charts, KPIs and analytical views |
 
 ---
+## Screenshot of the Dashboard
+<img width="376" height="604" alt="Subject wise Percetange" src="https://github.com/user-attachments/assets/97ff4a5d-6289-4979-a4dd-e282cf176605" />
 
 ## 📊 Dashboard Structure
 
@@ -98,5 +100,8 @@ The dashboard is organized into multiple analytical views:
         │               │
         └───────┬───────┘
                 ↓
+
+
+
          Subjects & Learning
               Levels
